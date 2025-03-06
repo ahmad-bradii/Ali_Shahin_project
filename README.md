@@ -13,7 +13,7 @@ If you want to contribute to this project:
 1. **Fork the repository**
 2. **Clone your fork**
    ```sh
-    https://github.com/ahmad-bradii/Ali_Shahin_project.git
+    git clone https://github.com/ahmad-bradii/Ali_Shahin_project.git
    
 3. **Run it **
   ```sh
